@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaishnavimaurya111/Mydsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/vaishnavimaurya111/Mydsa/tree/master/0189-rotate-array) |
+| [0330-patching-array](https://github.com/vaishnavimaurya111/Mydsa/tree/master/0330-patching-array) |
 ## Math
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaishnavimaurya111/Mydsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/vaishnavimaurya111/Mydsa/tree/master/0189-rotate-array) |
+## Greedy
+|  |
+| ------- |
+| [0330-patching-array](https://github.com/vaishnavimaurya111/Mydsa/tree/master/0330-patching-array) |
 <!---LeetCode Topics End-->
